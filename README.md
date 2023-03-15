@@ -1,1 +1,1 @@
-#Translator web app using azure and flask
+#Language Translator web app using azure and flask
